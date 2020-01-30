@@ -1,0 +1,25 @@
+{
+  "passengerList": {
+    "row1": {
+      "seatA": "reserved",
+      "seatB": "reserved",
+      "seatC": "reserved",
+      "seatD": "reserved",
+      "seatE": "unreserved"
+    },
+    "row2": {
+      "seatA": "unreserved",
+      "seatB": "reserved",
+      "seatC": "reserved",
+      "seatD": "reserved",
+      "seatE": "unreserved"
+    },
+    "row3": {
+      "seatA": "unreserved",
+      "seatB": "unreserved",
+      "seatC": "unreserved",
+      "seatD": "unreserved",
+      "seatE": "reserved"
+    }
+  }
+}
